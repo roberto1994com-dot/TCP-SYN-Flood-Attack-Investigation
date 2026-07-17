@@ -58,19 +58,19 @@ Packet capture analysis revealed a significant number of TCP SYN packets origina
 
 ### Evidence 1 – Initial SYN Flood Activity
 
-![Evidence 1](images/evidence1-syn-flood.png)
+![Evidence 1](images/evidence1.png)
 
 A large number of TCP SYN packets originating from **203.0.113.0** were observed targeting the organization's web server. The continuous connection requests indicate the beginning of the TCP SYN Flood attack.
 
 ### Evidence 2 – Repeated TCP SYN Packets
 
-![Evidence 2](images/evidence2-repeated-syn.png)
+![Evidence 2](images/evidence2.png)
 
 The attacker repeatedly transmitted TCP SYN packets to port **443** without completing the TCP three-way handshake, causing the server to maintain thousands of half-open connections.
 
 ### Evidence 3 – Service Disruption
 
-![Evidence 3](images/evidence3-resource-exhaustion.png)
+![Evidence 3](images/evidence3.png)
 
 As the number of half-open connections increased, legitimate HTTP traffic began to fail, resulting in connection timeouts and reduced service availability.
 
