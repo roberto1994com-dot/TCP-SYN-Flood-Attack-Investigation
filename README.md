@@ -132,4 +132,4 @@ TCP-SYN-Flood-Attack-Investigation
 
 The complete technical incident report, including the investigation methodology, packet analysis, evidence, root cause, mitigation recommendations, and conclusions, is available in:
 
-📄 **[Download the Full Incident Report](Reports/TCP SYN Flood Attack Investigation.pdf)**
+📄 [Download the Full Incident Report](Reports/TCP%20SYN%20Flood%20Attack%20Investigation.pdf)
