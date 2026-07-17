@@ -1,11 +1,14 @@
 # TCP SYN Flood Attack Investigation
 
-![Python](...)
-![Wireshark](...)
-![Cybersecurity](...)
-![Status](...)
-![License](...)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge)
+
+![Incident Response](https://img.shields.io/badge/Incident_Response-SOC-success?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ---
 
 ## Project Overview
